@@ -5,7 +5,7 @@ Soy Luis, estudiante del Master en Epidemiología de la Pontificia Universidad C
 - 🌱 Actualmente estoy estudiando [Magíster en Epidemiología](https://medicina.uc.cl/postgrado/magister/magister-en-epidemiologia/)
 - 👯 Deseo colaborar en proyectos de Epidemiología ambiental
 - 🤔 Estoy buscando ayuda para aprender mas sobre modelos globales de contaminación del aire
-- 😄 Dato curioso: Quiero tener un refugio para gatos abandonados.
+- 😺 Dato curioso: Quiero tener un refugio para gatos abandonados.
 <!--
 **lvillaluis28/lvillaluis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
